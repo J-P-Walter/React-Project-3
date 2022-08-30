@@ -1,4 +1,5 @@
-Project 3 from Bob Zirol's React Class - Webapp that generates memes. Images are rendered using an api call. Topics from this section include state and its uses, how state is used between parent and child components, conditional rendering, React forms, useEffect and useEffect cleanup
+Project 3 from Bob Zirol's React Class - Webapp that generates memes. Images are rendered using an api call. Topics from this section include state and its uses, how state is used between parent and child components, conditional rendering, React forms, useEffect and useEffect cleanup\
+Can be viewed at: https://jp-walter-project-3.netlify.app/
 
 # Getting Started with Create React App
 
