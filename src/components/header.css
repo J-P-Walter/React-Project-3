@@ -1,0 +1,26 @@
+.header {
+  font-family: Karla;
+  position: absolute;
+  height: 65px;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  color: white;
+
+  display: flex;
+  align-items: center;
+
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+}
+.header--image {
+  height: 80%;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+.page--title {
+  margin-right: auto;
+}
+.project--title {
+  margin-right: 37px;
+  text-align: right;
+}
