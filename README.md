@@ -1,3 +1,5 @@
+Project 3 from Bob Zirol's React Class - Webapp that generates memes. Images are rendered using an api call. Topics from this section include state and its uses, how state is used between parent and child components, conditional rendering, React forms, useEffect and useEffect cleanup
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
